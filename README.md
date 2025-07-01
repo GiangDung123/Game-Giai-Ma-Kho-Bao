@@ -35,9 +35,6 @@ Trò chơi mô phỏng giáo dục giúp người chơi tìm hiểu và áp dụ
 ├── highscore.txt # File lưu điểm cao nhất
 └── README.md # Hướng dẫn sử dụng
 
-yaml
-Sao chép
-Chỉnh sửa
 
 ---
 
@@ -49,9 +46,6 @@ Các thư viện cần thiết:
 ```bash
 pip install pycryptodome
 💻 Cách chạy game
-bash
-Sao chép
-Chỉnh sửa
 python main_tkinter.py
 📝 Hướng dẫn sử dụng
 Chạy chương trình.
