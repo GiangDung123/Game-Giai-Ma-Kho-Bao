@@ -53,6 +53,7 @@ Python >=3.6
 Các thư viện cần thiết:
 ```bash
 pip install pycryptodome
+---
 💻 Cách chạy game
 
 python main_tkinter.py
