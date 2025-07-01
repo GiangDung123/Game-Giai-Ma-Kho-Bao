@@ -81,9 +81,6 @@ GV hướng dẫn: ThS. Lê Thị Thùy Trang
 
 
 💻 Cách chạy game
-bash
-Sao chép
-Chỉnh sửa
 python main_tkinter.py
 📝 Hướng dẫn sử dụng
 Chạy chương trình.
