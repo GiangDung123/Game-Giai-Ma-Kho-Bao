@@ -102,7 +102,3 @@ PyCryptodome: https://pycryptodome.readthedocs.io
 
 Tkinter Docs: https://docs.python.org/3/library/tkinter.html
 
-🖋️ Tác giả
-Nhóm sinh viên Đại học Đại Nam
-GV hướng dẫn: ThS. Lê Thị Thùy Trang
-
