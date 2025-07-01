@@ -36,19 +36,19 @@ Trò chơi mô phỏng giáo dục giúp người chơi tìm hiểu và áp dụ
 └── README.md # Hướng dẫn sử dụng
 
 
+
 ---
 
 ## 🛠️ Yêu cầu cài đặt
 
 Python >=3.6
 
-Các thư viện cần thiết: Chạy CMD
-
+Các thư viện cần thiết:
+```bash
 pip install pycryptodome
-
 💻 Cách chạy game
-python main_tkinter.py
 
+python main_tkinter.py
 📝 Hướng dẫn sử dụng
 Chạy chương trình.
 
@@ -70,3 +70,4 @@ Tkinter Docs: https://docs.python.org/3/library/tkinter.html
 🖋️ Tác giả
 Nhóm sinh viên Đại học Đại Nam
 GV hướng dẫn: ThS. Lê Thị Thùy Trang
+
