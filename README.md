@@ -42,8 +42,7 @@ Trò chơi mô phỏng giáo dục giúp người chơi tìm hiểu và áp dụ
 
 Python >=3.6
 
-Các thư viện cần thiết:
-```bash
+Các thư viện cần thiết: Chạy CMD
 pip install pycryptodome
 💻 Cách chạy game
 python main_tkinter.py
