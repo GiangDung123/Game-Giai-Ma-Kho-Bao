@@ -27,12 +27,19 @@ Trò chơi mô phỏng giáo dục giúp người chơi tìm hiểu và áp dụ
 ## 🧩 Cấu trúc thư mục
 
 ├── main_tkinter.py # Giao diện chính và luồng trò chơi
+
 ├── levels.py # Danh sách cấp độ và dữ liệu mã hóa
+
 ├── caesar.py # Mã hóa / Giải mã Caesar Cipher
+
 ├── vigenere.py # Mã hóa / Giải mã Vigenère Cipher
+
 ├── rsa_module.py # Mã hóa / Giải mã RSA
+
 ├── aes_module.py # Mã hóa / Giải mã AES
+
 ├── highscore.txt # File lưu điểm cao nhất
+
 └── README.md # Hướng dẫn sử dụng
 
 
