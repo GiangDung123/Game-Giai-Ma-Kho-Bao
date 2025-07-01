@@ -78,3 +78,31 @@ Tkinter Docs: https://docs.python.org/3/library/tkinter.html
 Nhóm sinh viên Đại học Đại Nam
 GV hướng dẫn: ThS. Lê Thị Thùy Trang
 
+
+💻 Cách chạy game
+bash
+Sao chép
+Chỉnh sửa
+python main_tkinter.py
+📝 Hướng dẫn sử dụng
+Chạy chương trình.
+
+Chọn cấp độ muốn chơi.
+
+Nhập kết quả giải mã.
+
+Nếu đúng: hệ thống chuyển cấp độ tiếp theo.
+
+Nếu sai: hiện đáp án đúng để tham khảo.
+
+🗄️ Tài liệu tham khảo
+William Stallings, Cryptography and Network Security
+
+PyCryptodome: https://pycryptodome.readthedocs.io
+
+Tkinter Docs: https://docs.python.org/3/library/tkinter.html
+
+🖋️ Tác giả
+Nhóm sinh viên Đại học Đại Nam
+GV hướng dẫn: ThS. Lê Thị Thùy Trang
+
